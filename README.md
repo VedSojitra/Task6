@@ -16,6 +16,7 @@ Prevents form submission if inputs are invalid
 Displays a success message on valid submission (no actual backend sending)
 
 Handles edge cases:
+
     Empty inputs
     Invalid email formats
     Special characters
